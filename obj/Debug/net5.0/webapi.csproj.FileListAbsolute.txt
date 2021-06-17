@@ -1,0 +1,16 @@
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\webapi.exe
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\webapi.deps.json
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\webapi.runtimeconfig.json
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\webapi.runtimeconfig.dev.json
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\webapi.dll
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\ref\webapi.dll
+C:\Users\CURN\Videos\webapi\bin\Debug\net5.0\webapi.pdb
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.csprojAssemblyReference.cache
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.AssemblyInfoInputs.cache
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.AssemblyInfo.cs
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.dll
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\ref\webapi.dll
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.pdb
+C:\Users\CURN\Videos\webapi\obj\Debug\net5.0\webapi.genruntimeconfig.cache
